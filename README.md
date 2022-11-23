@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wellington</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wellington-damasio&color=yellow" alt="Profile views" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=wellington-damasio&color=yellow" alt="Profile views" /> </p>-->
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 - 🔥 Web development student aspiring to become a Frontend Developer
 
