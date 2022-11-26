@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wellington</h1>
+<h1 align="left">Hi, I'm Wellington <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wellington-damasio&color=2AA788" alt="Profile views" /> </p>
 
 - 🔥 Web development student aspiring to become a Frontend Developer
