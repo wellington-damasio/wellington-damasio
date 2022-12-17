@@ -5,7 +5,7 @@
 
 - 🔭 I’m available for work
 
-- 💬 Learning **TypeScript, React, Node.js, MongoDB**
+- 💬 Learning **TypeScript, React, Node.js, MySQL**
 
 - ⚡ Fun fact: **I play the guitar 🎸**
 
