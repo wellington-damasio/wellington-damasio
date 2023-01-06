@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I play the guitar 🎸**
 
-- Portfolio: <a href="https://wellingtondamasio.com" target="_blank">wellingtondamasio.com</a>
+- Portfolio: <a href="https://wellingtondamasio.com" target="_blank">https://wellingtondamasio.com</a>
 
 <br>
 
